@@ -2805,8 +2805,8 @@ input[type=text] {
 }
 
 #header-img {
-  -webkit-animation: mover 2s infinite alternate;
-  animation: mover 2s infinite alternate;
+  /* -webkit-animation: mover 2s infinite alternate;
+  animation: mover 2s infinite alternate; */
 }
 
 @keyframes mover {
